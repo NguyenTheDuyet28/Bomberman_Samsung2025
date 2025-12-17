@@ -14,7 +14,7 @@ Dự án này là một phiên bản game Bomberman cổ điển được xây d
   - Player 1: W, A, S, D, Space
   - Player 2 Phím Mũi tên, Shift
 4. Cách chạy chương trình
-Bước 1: Tải file .zip và giải nén trong thư mục máy tính bạn vừa lưu.
-Bước 2: Đảm bảo file .exe nằm cùng cấp với thư mục tài nguyên và các thư viện liên kết động.
-Bước 3: Có thể bấm vào file .exe để chạy chương trình.
+- Bước 1: Tải file .zip và giải nén trong thư mục máy tính bạn vừa lưu.
+- Bước 2: Đảm bảo file .exe nằm cùng cấp với thư mục tài nguyên và các thư viện liên kết động.
+- Bước 3: Có thể bấm vào file .exe để chạy chương trình.
 Lưu ý: Nếu thiếu thư mục res/, game sẽ báo lỗi.
